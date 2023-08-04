@@ -1,0 +1,33 @@
+{
+  "name": "full3",
+  "version": "1.7.0",
+  "description": "Full stack web3 starter project",
+  "main": "index.js",
+  "bin": "index.js",
+  "preferGlobal": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moayaan1911/full3.git"
+  },
+  "keywords": [
+    "npx",
+    "init",
+    "fullstack",
+    "web3"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moayaan1911/full3/issues"
+  },
+  "homepage": "https://github.com/moayaan1911/full3#readme",
+  "dependencies": {
+    "readline": "^1.3.0"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
